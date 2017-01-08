@@ -1,0 +1,2 @@
+Assignment: Sortable Ninja
+Create a Sortable Ninja puzzle using jQueryUI. You should be able to click and drag any of the images to a new position within the list and the rest of the images should adjust to fit the new order. You can use any picture you'd like or we have also provided 5 small images (sortable ninja images) that comprise the picture below if you'd like to save some time!
